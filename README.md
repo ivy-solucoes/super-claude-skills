@@ -12,7 +12,7 @@ meu-repo-de-skills/
 └── skills/
     ├── frappe/          ← Desenvolvimento com Frappe Framework
     │   └── SKILL.md
-    ├── erpnext/         ← Customizações e desenvolvimento ERPNext
+    ├── erp/             ← Customizações e desenvolvimento ERP
     │   └── SKILL.md
     └── outra-skill/     ← [Descrição da skill]
         └── SKILL.md
@@ -53,7 +53,7 @@ Após clonar, as skills são detectadas automaticamente. Nenhum restart necessá
 | Skill | Descrição | Quando usar |
 |---|---|---|
 | [`frappe`](./skills/frappe/) | Desenvolvimento com Frappe Framework | DocTypes, Controllers, Hooks, Form Scripts, bench CLI |
-| [`erpnext`](./skills/erpnext/) | Customizações ERPNext | Módulos de ERP, customizações, relatórios, workflows |
+| [`erp`](./skills/erp/) | Customizações ERP | Módulos de ERP, customizações, relatórios, workflows |
 
 > Novas skills são adicionadas conforme novas soluções são incorporadas ao stack.
 
@@ -101,7 +101,7 @@ Visão geral do que esta skill ensina ao Claude.
 cd ~/.claude/skills/repo-empresa && git pull
 ```
 
-Recomendamos configurar um lembrete para revisar as skills a cada nova versão das ferramentas (ex: novas versões do Frappe/ERPNext).
+Recomendamos configurar um lembrete para revisar as skills a cada nova versão das ferramentas.
 
 ---
 
