@@ -1,0 +1,34 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "super-claude-skills",
+    "version": "1.0.0",
+    "description": "Marketplace de skills para Claude Code pela Ivy Soluções",
+    "owner": {
+      "name": "Ivy Soluções",
+      "email": "seu@email.com"
+    },
+    "homepage": "https://github.com/ivy-solucoes/super-claude-skills",
+    "repository": "https://github.com/ivy-solucoes/super-claude-skills",
+    "plugins": [
+        {
+          "name": "frappe-framework-skills",
+          "description": "Skills para desenvolvimento com Frappe Framework",
+          "version": "1.0.0",
+          "source": "./skills/frappe/frappe-framework-skills.md",
+          "category": "development",
+          "author": {
+            "name": "Ivy Soluções"
+          }
+        },
+        {
+          "name": "erp-skills",
+          "description": "Skills para desenvolvimento com IvyERP",
+          "version": "1.0.0",
+          "source": "./skills/erp/ivy-erp-skills.md",
+          "category": "development",
+          "author": {
+            "name": "Ivy Soluções"
+          }
+        }
+      ]
+  }
