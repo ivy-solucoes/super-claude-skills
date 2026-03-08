@@ -29,6 +29,16 @@
           "author": {
             "name": "Ivy Soluções"
           }
+        },
+        {
+          "name": "frappe-ui-skills",
+          "description": "Skills para usando frappe-ui",
+          "version": "1.0.0",
+          "source": "./skills/frappe/frappe-ui.md",
+          "category": "development",
+          "author": {
+            "name": "Ivy Soluções"
+          }
         }
       ]
   }
