@@ -11,30 +11,20 @@
     "repository": "https://github.com/ivy-solucoes/super-claude-skills",
     "plugins": [
         {
-          "name": "frappe-framework-skills",
+          "name": "frappe-framework-v16",
           "description": "Skills para desenvolvimento com Frappe Framework",
           "version": "1.0.1",
-          "source": "./skills/frappe-v16",
+          "source": "./skills/frappe-framework-v16",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
           }
         },
         {
-          "name": "erp-skills",
-          "description": "Skills para desenvolvimento com IvyERP",
-          "version": "1.0.1",
-          "source": "./skills/ERP",
-          "category": "development",
-          "author": {
-            "name": "Ivy Soluções"
-          }
-        },
-        {
-          "name": "frappe-ui-skills",
+          "name": "frappe-ui-v16",
           "description": "Skills para usando frappe-ui",
           "version": "1.0.1",
-          "source": "./skills/frappe-ui",
+          "source": "./skills/frappe-ui-v16",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
