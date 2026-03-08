@@ -14,7 +14,7 @@
           "name": "frappe-framework-skills",
           "description": "Skills para desenvolvimento com Frappe Framework",
           "version": "1.0.0",
-          "source": "./skills/frappe-framework.md",
+          "source": "./skills/frappe",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
@@ -24,7 +24,7 @@
           "name": "erp-skills",
           "description": "Skills para desenvolvimento com IvyERP",
           "version": "1.0.0",
-          "source": "./skills/ivy-erp-skills.md",
+          "source": "./skills/ERP",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
@@ -34,7 +34,7 @@
           "name": "frappe-ui-skills",
           "description": "Skills para usando frappe-ui",
           "version": "1.0.0",
-          "source": "./skills/frappe-ui.md",
+          "source": "./skills/frappe-ui",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
