@@ -14,7 +14,7 @@
           "name": "frappe-framework-skills",
           "description": "Skills para desenvolvimento com Frappe Framework",
           "version": "1.0.0",
-          "source": "./skills/frappe",
+          "source": "./skills/frappe-v16",
           "category": "development",
           "author": {
             "name": "Ivy Soluções"
